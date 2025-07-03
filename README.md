@@ -69,4 +69,4 @@ Uso de Spring Boot con aplicaciones de consola.
 
 🤝 Autor
 
-.Desarrollado por Franco Daniel Luvisotti Junco como parte del desafío LiterAlura 🚀
+.Desarrollado por Franco Daniel Luvisotti Junco como parte del desafío LiterAlura de Alura Latam🚀
