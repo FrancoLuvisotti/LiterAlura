@@ -45,8 +45,9 @@ spring.jpa.hibernate.ddl-auto=update
 ```bash
 ./mvnw spring-boot:run
 ```
-🧪 Aprendizajes:
-Uso de Spring Boot con aplicaciones de consola.
+## 🧪 Aprendizajes:
+
+.Uso de Spring Boot con aplicaciones de consola.
 
 .Integración con API externa (GutenDex).
 
@@ -56,17 +57,14 @@ Uso de Spring Boot con aplicaciones de consola.
 
 .Lectura de JSON con ObjectMapper.
 
-🛠️ Posibles mejoras futuras:
+## 🛠️ Posibles mejoras futuras:
+
 .Agregar sección para libros favoritos y poder borrar alguno.
 
 .Añadir filtros combinados (autor + idioma).
 
 .Exportar listado de libros favoritos a archivo .csv o .txt.
 
-🖼️ Capturas del proyecto
+## 🖼️ Capturas del proyecto
 
 ![Menú principal](imagenes/menu.png)
-
-🤝 Autor
-
-.Desarrollado por Franco Daniel Luvisotti Junco como parte del desafío LiterAlura de Alura Latam🚀
