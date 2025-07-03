@@ -1,6 +1,6 @@
 # LiterAlura 📚
 
-**LiterAlura** es una aplicación de consola desarrollada en Java con Spring Boot que permite buscar, guardar y explorar libros del proyecto [GutenDex API](https://gutendex.com/). El proyecto fue realizado como parte del desafío de Alura Latam: *"Inmersión Java Spring 2024"*.
+**LiterAlura** es una aplicación de consola desarrollada en Java con Spring Boot que permite buscar, guardar y explorar libros del proyecto [GutenDex API](https://gutendex.com/). El proyecto fue realizado como parte del desafío de Alura Latam
 
 ---
 
